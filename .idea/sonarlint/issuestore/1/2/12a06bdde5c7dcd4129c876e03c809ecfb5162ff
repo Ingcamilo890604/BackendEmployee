@@ -1,0 +1,13 @@
+
+F	java:S106"+Replace this use of System.out by a logger.(Èä Z8æ§¶İı1
+L	java:S106"+Replace this use of System.out by a logger.(ÄœÅÿúÿÿÿÿ8ç§¶İı1
+G	java:S106"+Replace this use of System.out by a logger.(İã‘õ8ç§¶İı1
+L	java:S106&"+Replace this use of System.out by a logger.(¹ãÂ÷ûÿÿÿÿ8é§¶İı1
+H
+java:S1168("+Return an empty collection instead of null.(¥¹ï8ê§¶İı1
+X	java:S125'"<This block of commented-out lines of code should be removed.(‚ïäÌ8ë§¶İı1
+L	java:S106."+Replace this use of System.out by a logger.(éµ’ñşÿÿÿÿ8ë§¶İı1
+F
+java:S11724")Remove this unused method parameter "id".(î•à—8ì§¶İı1
+Q
+java:S11728"/Remove this unused method parameter "position".(Ê–†Æıÿÿÿÿ8í§¶İı1
